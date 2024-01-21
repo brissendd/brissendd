@@ -1,4 +1,7 @@
-   👋 Hi, I’m Bogdan🔭 I’m currently learning Dart\Flutter and planning about Swift   
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+
+   👋 Hi, I’m Bogdan
+   🔭 I’m currently learning Dart\Flutter and planning about Swift   
    👯 I’m looking to collaborate on developing some mobile app
    📫 How to reach me: https://t.me/brissend
 
