@@ -6,7 +6,7 @@ I've been studying in Peter the Great St.Petersburg Polytechnic University (St. 
 
 My very first programming experience was Python at the beginning of my university years. Firstly, i thought that programming is not for me, and i dropped it. 
 
-I've been coding on python from time to time just because i needed to create or try something for a term project.
+I've been coding on Python from time to time just because i needed to create or try something for a term project.
 
 Then i found out about Dart & Flutter, and i loved it.
 
