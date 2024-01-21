@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm <a>Bogdan</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/brissend" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-   👋 Hi, I’m Bogdan
-   🔭 I’m currently learning Dart\Flutter and planning about Swift   
-   👯 I’m looking to collaborate on developing some mobile app
-   📫 How to reach me: https://t.me/brissend
+
+🔭 I’m currently learning Dart\Flutter and planning about Swift   
+👯 I’m looking to collaborate on developing some mobile app
+📫 How to reach me: https://t.me/brissend
 
 I've been studying in Peter the Great St.Petersburg Polytechnic University (St. Petersburg, Russia) for 6 years.
 
