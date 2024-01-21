@@ -1,6 +1,6 @@
-    👋 Hi, I’m Bogdan🔭 I’m currently learning Dart\Flutter and planning about Swift
-    👯 I’m looking to collaborate on developing some mobile app
-    📫 How to reach me: https://t.me/brissend
+   👋 Hi, I’m Bogdan🔭 I’m currently learning Dart\Flutter and planning about Swift
+   👯 I’m looking to collaborate on developing some mobile app
+   📫 How to reach me: https://t.me/brissend
 
 I've been studying in Peter the Great St.Petersburg Polytechnic University (St. Petersburg, Russia) for 6 years.
 
