@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h4>&#x2022; 🔭 I’m currently learning Dart\Flutter and planning about Swift </h3>  
-<h5>&#x2022; 👯 I’m looking to collaborate on developing some mobile app </h3>
-<h6>&#x2022; 📫 How to reach me: https://t.me/brissend </h3>
+<h4>&#x2022; 👯 I’m looking to collaborate on developing some mobile app </h3>
+<h4>&#x2022; 📫 How to reach me: https://t.me/brissend </h3>
 
 I've been studying in Peter the Great St.Petersburg Polytechnic University (St. Petersburg, Russia) for 6 years.
 
