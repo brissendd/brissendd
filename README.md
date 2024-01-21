@@ -1,4 +1,4 @@
-   👋 Hi, I’m Bogdan🔭 I’m currently learning Dart\Flutter and planning about Swift
+   👋 Hi, I’m Bogdan🔭 I’m currently learning Dart\Flutter and planning about Swift   
    👯 I’m looking to collaborate on developing some mobile app
    📫 How to reach me: https://t.me/brissend
 
