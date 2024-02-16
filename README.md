@@ -20,7 +20,7 @@ Soon i will finish my pet-project, so i can find a job, where i could practice a
 
 Experience
 
-Flutter, Dart, Git
+Flutter, Dart, Git, Bloc, Hive, Dio, Retrofit
 
 In my portfolio: completed technical assignment.
 
