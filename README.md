@@ -18,7 +18,7 @@ Now i'm trying to improve my Dart & Flutter knowledge every day.
 Soon i will finish my pet-project, so i can find a job, where i could practice and learn something new even more.
 
 
-Experience
+<h4>Experience</h4>
 
 Flutter, Dart, Git, Bloc, Hive, Dio, Retrofit
 
