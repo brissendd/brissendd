@@ -2,5 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h4>&#x2022; 🔭 Currently learning Java </h3>  
-<h4>&#x2022; 👯 Trying my hardest to staying consistent </h3>
 <h4>&#x2022; 📫 How to reach me: https://t.me/brissend </h3>
